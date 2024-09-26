@@ -36,7 +36,7 @@ let randomPokemon = null;
 let player = {
     name: "bjarne",
     image: "/Images/pokemonTrainerIdle.png",
-    playerPokemon: [],
+    Pokemon: [],
 }
 // let playerName = "Bjarne";
 // let playerImage = "/Images/pokemonTrainerIdle.png";

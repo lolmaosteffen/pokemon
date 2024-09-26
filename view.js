@@ -1,4 +1,3 @@
-const app = document.getElementById("app");
 updateView();
 function updateView() {
     getRandomPokemon()
